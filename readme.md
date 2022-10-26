@@ -1,6 +1,6 @@
 # PostCSS Crash Course
 
-Files for my YouTube PostCSS crash course.
+Files for my [YouTube PostCSS crash course](https://www.youtube.com/watch?v=SP8mSVSAh6s).
 
 ### Usage
 
